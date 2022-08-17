@@ -1,1 +1,9 @@
-# bankwebpage.github.io
+![about us](https://user-images.githubusercontent.com/37800504/185160240-2b07682a-45fb-4058-88c7-9c6137df0ca9.png)
+![addaccount](https://user-images.githubusercontent.com/37800504/185160252-c0ee520a-6bf8-44eb-9df1-8e2d9f0b0944.png)
+![aftersignup](https://user-images.githubusercontent.com/37800504/185160275-fa2f7ca7-e814-4d70-8c1e-bc67afec9046.png)
+![CONTACTUS](https://user-images.githubusercontent.com/37800504/185160296-f149bb58-47f5-471f-9d26-6cae13c790e3.png)
+![home](https://user-images.githubusercontent.com/37800504/185160325-9d48a759-96d2-4188-9de1-98445f8d16f6.png)
+![login](https://user-images.githubusercontent.com/37800504/185160333-18d38b36-43a8-4388-bbd5-7519540fb5e4.png)
+![Uploading signup.png…]()
+![Uploading transferaccount.png…]()
+# bankwebpage.github.io![resetpassword](https://user-images.githubusercontent.com/37800504/185160963-e7554ba3-9058-4329-bf61-3bc2e6fea921.png)
